@@ -26,5 +26,5 @@ box3.addEventListener("click",()=>{
 
 btn.addEventListener("click",()=>{
 mid.innerHTML="";
-mid.innerHTML='<h1>Your Respone Has Been Recorded</h1>';
+mid.innerHTML='<h1>Your Response Has Been Recorded</h1>';
 })
